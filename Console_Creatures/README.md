@@ -1,0 +1,1 @@
+Each part of the ghost is a line of text, using symbols like parentheses () and tildes ~. Spooky, right? These type of drawings are sometimes called ASCII art, and you can find them all across the internet.
